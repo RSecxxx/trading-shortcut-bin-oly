@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "Binomo Shortcut BUY/SELL",
+    "version": "0.1",
+    "description": "Terimakasih telah menggunakan tool ini. Tool ini sangat aman digunakan dan mempunyai fitur anti lag (jika koneksi stabil). jika terjadi error/shortcut tidak bisa digunakan. hubungi IG : @Gagassurya19 Donation : https://www.paypal.me/Gagassurya19",
+
+    "icons": {
+        "16": "binomo.png",
+        "48": "binomo.png",
+        "128": "binomo.png"
+    },
+
+    "content_scripts": [{
+        "matches": [
+            "https://binomoworld.com/trading",
+            "http://binomoworld.com/trading"
+        ],
+        "js": ["content.js"]
+    }],
+
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+
+    "permissions": [
+        "notifications"
+    ]
+}
