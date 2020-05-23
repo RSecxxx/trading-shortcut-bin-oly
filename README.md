@@ -1,4 +1,4 @@
-# Shortcut Platform CHROME Extension
+# Shortcut Trading Platform CHROME Extension
  Tools ini dibangun dengan menggunakan javascript
 
 [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
