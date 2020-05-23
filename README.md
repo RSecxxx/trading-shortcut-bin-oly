@@ -6,16 +6,16 @@
 ## How To Install
 
 1. Go to chrome://extensions/
-![Extension]()
+![Extension](https://github.com/gagassurya19/TradingShortCut/blob/master/1.png)
 2. Click "Load Unpacked"
-![Extension]()
+![Extension](https://github.com/gagassurya19/TradingShortCut/blob/master/2.png)
 3. Choose Folder Binomo/Olymptrade Shortcut
 Binomo : 
 Olymptrade : 
-![Extension]()
+![Extension](https://github.com/gagassurya19/TradingShortCut/blob/master/3.png)
 4. Open Platform Olymptrade/Binomo
 5. Activate with click icon on the right side.
-![Extension]()
+![Extension](https://github.com/gagassurya19/TradingShortCut/blob/master/4.png)
 6. Done.
 
 > Thank you
