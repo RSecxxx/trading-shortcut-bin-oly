@@ -14,6 +14,8 @@
 5. Activate with click icon on the right side.
 ![Extension](https://github.com/gagassurya19/TradingShortCut/blob/master/3.png)
 6. Done.
+![Extension](https://github.com/gagassurya19/TradingShortCut/blob/master/3.png)
+
 
 > Thank you
 ---
