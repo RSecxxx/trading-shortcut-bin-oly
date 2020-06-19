@@ -3,8 +3,6 @@
  
  Gunakan Up-Arrow[BUY/UP] dan Down-Arrow[SELL/DOWN]
 
-[![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
 ## How To Install
 
 1. Go to chrome://extensions/
