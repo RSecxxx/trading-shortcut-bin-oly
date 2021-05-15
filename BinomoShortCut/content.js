@@ -1,4 +1,4 @@
-alert("Berhasil diinstall! aktifkan melalui icon [BINOMO] disamping. Donation : https://www.paypal.me/Gagassurya19");
+alert("Berhasil diinstall! aktifkan melalui icon [BINOMO] disamping. Donation : https://www.paypal.me/ReynaldyZanuar");
 console.log(
     // Shortcut Binomo
     document.onkeyup = function(e) {
@@ -9,7 +9,7 @@ console.log(
             e.preventDefault();
             document.querySelector("vui-icon[name='deal-down_bg']").click();
         } else {
-            alert("Anda Menggunakan Shortcut [Binomo] gunakan dengan bijak salam profit. Made by @Gagassurya19");
+            alert("Anda Menggunakan Shortcut [Binomo] gunakan dengan bijak salam profit. Made by @ReynaldyZanuar");
         }
     }
 );
